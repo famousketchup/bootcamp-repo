@@ -1,2 +1,3 @@
-# bootcamp-repo
- Files, related to bootcamp tasks
+# Tasks, related to bootcamp
+
+In top-level directories, answers can be found to each module
