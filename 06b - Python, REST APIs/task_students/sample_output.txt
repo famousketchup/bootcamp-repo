@@ -1,0 +1,94 @@
+> python .\main.py
+
+Student Management System
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice (1-5): 1
+Enter student name: Dmitrijs
+Enter student ID: 1
+Student Dmitrijs (ID: 1) added successfully!
+
+Student Management System
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice (1-5): 2
+Registered Students:
+- Name: Dmitrijs, ID: 1
+
+Student Management System
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice (1-5): 1
+Enter student name: Jegors
+Enter student ID: 2
+Student Jegors (ID: 2) added successfully!
+
+Student Management System
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice (1-5): 2
+Registered Students:
+- Name: Dmitrijs, ID: 1
+- Name: Jegors, ID: 2
+
+Student Management System
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice (1-5): 3
+Enter student ID to update: 3
+Enter new student name: Murathan
+Student with ID 3 not found.
+
+Student Management System
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice (1-5): 4
+Enter student ID to delete: 3
+Student with ID 3 not found.
+
+Student Management System
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice (1-5): 4
+Enter student ID to delete: 2
+Student ID 2 deleted successfully.
+
+Student Management System
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice (1-5): 2
+Registered Students:
+- Name: Dmitrijs, ID: 1
+
+Student Management System
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice (1-5): 5
+Exiting Student Management System...
